@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DangHaiDao
-- 👀 I’m interested in HTML,CSS,JS,PHP and especially SEO
+- 👀 I’m interested in HTML,CSS,JS,PHP and especially SEO, Marketing
 - 🌱 I’m currently learning SEO, Marketing, Web dev
 - 💞️ I’m looking to collaborate on jobs
 - 📫 How to reach me:

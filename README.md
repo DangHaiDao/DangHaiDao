@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @DangHaiDao
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning HTML
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ...
+- 👀 I’m interested in HTML,CSS,JS,PHP and especially SEO
+- 🌱 I’m currently learning SEO, Marketing, Web dev
+- 💞️ I’m looking to collaborate on jobs
+- 📫 How to reach me:
+-                   mail: haidang4work@gmail.com
+-               facebook:https://www.facebook.com/daohaidang.nao6mui
 
 <!---
 DangHaiDao/DangHaiDao is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
